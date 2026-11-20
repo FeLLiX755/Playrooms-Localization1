@@ -1,0 +1,22 @@
+﻿bundle,path_id,type,name,byte_size,parse_status
+localization-assets-shared_assets_all.bundle,-8344594176684514250,MonoBehaviour,Skills Shared Data,5512,READ_OK
+localization-assets-shared_assets_all.bundle,-5915097220151492905,MonoBehaviour,Balli Shared Data,7688,READ_OK
+localization-assets-shared_assets_all.bundle,-2629875506528692029,MonoBehaviour,Items Shared Data,4588,READ_OK
+localization-assets-shared_assets_all.bundle,1,AssetBundle,8125ed6f7f09d276618765a229c097d7.bundle,792,READ_OK
+localization-assets-shared_assets_all.bundle,265168217797068040,MonoBehaviour,Mails Shared Data,2768,READ_OK
+localization-assets-shared_assets_all.bundle,353223580855354726,MonoBehaviour,General Shared Data,33404,READ_OK
+localization-assets-shared_assets_all.bundle,8492018548020520320,MonoBehaviour,Popups Shared Data,1864,READ_OK
+localization-locales_assets_all.bundle,-5388850836419210956,MonoBehaviour,Spanish,196,READ_OK
+localization-locales_assets_all.bundle,-4238096391901257366,MonoBehaviour,English (en),88,READ_OK
+localization-locales_assets_all.bundle,-3724933190340086319,MonoBehaviour,French,200,READ_OK
+localization-locales_assets_all.bundle,1,AssetBundle,3196593406a4f207c92edfe638997b11.bundle,812,READ_OK
+localization-locales_assets_all.bundle,2143348662111489356,MonoBehaviour,German (de),200,READ_OK
+localization-locales_assets_all.bundle,2977281017522478918,MonoBehaviour,Italian,196,READ_OK
+localization-locales_assets_all.bundle,8205606745546776933,MonoBehaviour,Portuguese (Brazil),224,READ_OK
+localization-string-tables-english(en)_assets_all.bundle,-2929763886237870269,MonoBehaviour,Items_en,4796,READ_OK
+localization-string-tables-english(en)_assets_all.bundle,-2142408578994983490,MonoBehaviour,General_en,34812,READ_OK
+localization-string-tables-english(en)_assets_all.bundle,-580912431106245015,MonoBehaviour,Balli_en,13112,READ_OK
+localization-string-tables-english(en)_assets_all.bundle,1,AssetBundle,6f6712f0acd8354cb92be835cc7f55d6.bundle,848,READ_OK
+localization-string-tables-english(en)_assets_all.bundle,5855518288261062038,MonoBehaviour,Mails_en,10472,READ_OK
+localization-string-tables-english(en)_assets_all.bundle,6261608299256034364,MonoBehaviour,Popups_en,1276,READ_OK
+localization-string-tables-english(en)_assets_all.bundle,8917665617567494397,MonoBehaviour,Skills_en,7388,READ_OK

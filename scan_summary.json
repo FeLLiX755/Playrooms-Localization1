@@ -1,0 +1,12 @@
+{
+  "bundles_scanned": 3,
+  "total_objects": 21,
+  "parsed_objects": 21,
+  "monobehaviour_attempted": 18,
+  "monobehaviour_parsed": 18,
+  "text_hits": 2979,
+  "objects_jsonl_records": 21,
+  "unity_version": "6000.6.3f1",
+  "typetree_generator_enabled": false,
+  "read_only": true
+}
